@@ -5,6 +5,9 @@ public class StriderController : MonoBehaviour
 {
 	Animator anim;
 
+	//Slide
+	//public CircleCollider2D;
+
 	//Jump Variables
 	bool grounded = false;
 
@@ -49,7 +52,7 @@ public class StriderController : MonoBehaviour
 
 		/*if (Input.GetKeyDown (KeyCode.S)) 
 		{
-			gameObject.GetComponent<CircleCollider2D>().isTrigger = true;
+			gameObject.GetComponent<CircleCollider2D>(enabled) = false;
 		}*/
 		if (Input.GetKeyDown(KeyCode.A) && Time.time >= nextSlash) 
 		{
