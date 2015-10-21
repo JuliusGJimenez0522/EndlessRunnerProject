@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class StriderController : MonoBehaviour 
@@ -6,7 +6,9 @@ public class StriderController : MonoBehaviour
 	Animator anim;
 
 	//Slide
-	//public CircleCollider2D;
+	public CircleCollider2D circC;
+	int striderSlide = Animator.StringToHash ("SlideInt");
+
 
 	//Jump Variables
 	bool grounded = false;
@@ -27,18 +29,25 @@ public class StriderController : MonoBehaviour
 	public float slashRate;
 	public float nextSlash;
 
+	void Awake()
+	{
+		anim = GetComponent<Animator> ();
+		rb = GetComponent<Rigidbody2D> ();
+		circC = GetComponent<CircleCollider2D> ();
+	}
 	// Use this for initialization
 	void Start () 
 	{
-		anim = GetComponent<Animator> ();
-		rb = GetComponent<Rigidbody2D>();
+
 	}
 	
 	// Update is called once per frame
 	void Update () 
 	{
-		if (grounded)
+		if (grounded) 
+		{
 			doubleJumped = false;
+		}
 		if (Input.GetKeyDown (KeyCode.Space) && grounded) 
 		{
 			anim.SetBool ("Ground", false);
@@ -50,13 +59,13 @@ public class StriderController : MonoBehaviour
 			doubleJumped = true;
 		}
 
-		/*if (Input.GetKeyDown (KeyCode.S)) 
+		if (Input.GetKeyDown (KeyCode.S) && grounded) 
 		{
-			gameObject.GetComponent<CircleCollider2D>(enabled) = false;
-		}*/
+			StartCoroutine("sliding");
+			anim.SetTrigger (striderSlide);
+		}
 		if (Input.GetKeyDown(KeyCode.A) && Time.time >= nextSlash) 
 		{
-			anim.SetTrigger ("AttackLeftGround");
 			nextSlash = Time.time + slashRate;
 			Instantiate (swordSlashPrefab, leftSpawner.position, leftSpawner.rotation);
 		}
@@ -71,11 +80,20 @@ public class StriderController : MonoBehaviour
 	{
 		grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
 		anim.SetBool ("Ground", grounded);
-
 		anim.SetFloat ("vSpeed", rb.velocity.y);
 	}
 	public void Jump()
 	{
 		rb.velocity = new Vector2 (0, jumpForce);
+		anim.SetBool ("Slide", false);
+		circC.enabled = true;
+	}
+	IEnumerator sliding()
+	{
+		anim.SetBool ("Slide", true);
+		circC.enabled = false;
+		yield return new WaitForSeconds(2.0f);
+		anim.SetBool ("Slide", false);
+		circC.enabled = true;
 	}
 }
