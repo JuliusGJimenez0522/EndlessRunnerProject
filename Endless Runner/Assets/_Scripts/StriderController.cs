@@ -61,8 +61,8 @@ public class StriderController : MonoBehaviour
 
 		if (Input.GetKeyDown (KeyCode.S) && grounded) 
 		{
-			StartCoroutine("sliding");
 			anim.SetTrigger (striderSlide);
+			StartCoroutine("sliding");
 		}
 		if (Input.GetKeyDown(KeyCode.A) && Time.time >= nextSlash) 
 		{

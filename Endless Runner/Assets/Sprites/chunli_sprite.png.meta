@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: c727fbfa65433c947820ade54e99e512
+timeCreated: 1447574501
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chunli_sprite_8
+    21300002: chunli_sprite_9
+    21300004: chunli_sprite_10
+    21300006: chunli_sprite_11
+    21300008: chunli_sprite_12
+    21300010: chunli_sprite_13
+    21300012: chunli_sprite_14
+    21300014: chunli_sprite_15
+    21300016: chunli_sprite_16
+    21300018: chunli_sprite_17
+    21300020: chunli_sprite_18
+    21300022: chunli_sprite_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: chunli_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 93
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chunli_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 77
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chunli_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 93
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chunli_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 76
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chunli_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 93
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chunli_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 77
+        width: 119
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chunli_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 93
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chunli_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 76
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chunli_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 93
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chunli_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 77
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chunli_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 93
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chunli_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 76
+        width: 117
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
