@@ -14,8 +14,12 @@ public class DestroyByContact : MonoBehaviour {
 	{
 	
 	}
-	void OnTriggerEnter(Collider2D other)
+	void OnTriggerEnter2D(Collider2D other)
 	{
+		if (other.tag == "Boundary") 
+		{
+			return;
+		}
 		Destroy (other.gameObject);
 		Destroy (gameObject);
 	}

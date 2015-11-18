@@ -7,9 +7,7 @@ public class StriderController : MonoBehaviour
 
 	//Slide
 	public CircleCollider2D circC;
-	int striderSlide = Animator.StringToHash ("SlideInt");
-
-
+	
 	//Jump Variables
 	bool grounded = false;
 
@@ -28,6 +26,12 @@ public class StriderController : MonoBehaviour
 	
 	public float slashRate;
 	public float nextSlash;
+
+	//Health Variables
+	public float striderHealth = 3.0f;
+	public GameObject[] healthCubes;
+	public bool playerHurt = false;
+	public bool playerDead = false;
 
 	void Awake()
 	{
@@ -61,7 +65,6 @@ public class StriderController : MonoBehaviour
 
 		if (Input.GetKeyDown (KeyCode.S) && grounded) 
 		{
-			anim.SetTrigger (striderSlide);
 			StartCoroutine("sliding");
 		}
 		if (Input.GetKeyDown(KeyCode.A) && Time.time >= nextSlash) 
@@ -73,6 +76,13 @@ public class StriderController : MonoBehaviour
 		{
 			nextSlash = Time.time + slashRate;
 			Instantiate (swordSlashPrefab, rightSpawner.position, rightSpawner.rotation);
+		}
+	}
+	void OnCollisionEnter2D (Collision2D other)
+	{
+		if (other.gameObject.tag == "Enemy")
+		{
+			StartCoroutine("hurt");
 		}
 
 	}
@@ -92,8 +102,22 @@ public class StriderController : MonoBehaviour
 	{
 		anim.SetBool ("Slide", true);
 		circC.enabled = false;
-		yield return new WaitForSeconds(2.0f);
+		yield return new WaitForSeconds(1.0f);
 		anim.SetBool ("Slide", false);
 		circC.enabled = true;
 	}
+	IEnumerator hurt()
+	{
+		anim.SetBool ("Hurt", true);
+		striderHealth--;
+		if (striderHealth <= 0)
+		{
+			Destroy (gameObject);
+		}
+		yield return new WaitForSeconds (1.0f);
+		anim.SetBool ("Hurt", false);
+
+	}
+
+
 }

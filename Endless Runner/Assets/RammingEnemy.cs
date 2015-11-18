@@ -20,4 +20,11 @@ public class RammingEnemy : MonoBehaviour
 	{
 		rb2D.MovePosition (rb2D.position + velocity * Time.fixedDeltaTime);
 	}
+	/*void OnCollisionEnter2D (Collision2D other)
+	{
+		if (other.gameObject.tag == "Player") 
+		{
+			gameObject.GetComponent<>.health = 2;
+		}
+	}*/
 }
