@@ -33,6 +33,8 @@ public class StriderController : MonoBehaviour
 	public bool playerHurt = false;
 	public bool playerDead = false;
 
+	public GameManager gameManager;
+
 	void Awake()
 	{
 		anim = GetComponent<Animator> ();
@@ -113,6 +115,7 @@ public class StriderController : MonoBehaviour
 		if (striderHealth <= 0)
 		{
 			Destroy (gameObject);
+			gameManager.GameOver ();
 		}
 		yield return new WaitForSeconds (1.0f);
 		anim.SetBool ("Hurt", false);
