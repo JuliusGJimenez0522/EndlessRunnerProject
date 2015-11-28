@@ -1,0 +1,1307 @@
+fileFormatVersion: 2
+guid: 6e42dbea36ef22a499693ff1e0aae8a4
+timeCreated: 1448680342
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - Street Fighter Alpha 2 - Ryu_0
+    21300002: SNES - Street Fighter Alpha 2 - Ryu_1
+    21300004: SNES - Street Fighter Alpha 2 - Ryu_2
+    21300006: SNES - Street Fighter Alpha 2 - Ryu_3
+    21300008: SNES - Street Fighter Alpha 2 - Ryu_4
+    21300010: SNES - Street Fighter Alpha 2 - Ryu_5
+    21300012: SNES - Street Fighter Alpha 2 - Ryu_6
+    21300014: SNES - Street Fighter Alpha 2 - Ryu_7
+    21300016: SNES - Street Fighter Alpha 2 - Ryu_8
+    21300018: SNES - Street Fighter Alpha 2 - Ryu_9
+    21300020: SNES - Street Fighter Alpha 2 - Ryu_10
+    21300022: SNES - Street Fighter Alpha 2 - Ryu_11
+    21300024: SNES - Street Fighter Alpha 2 - Ryu_12
+    21300026: SNES - Street Fighter Alpha 2 - Ryu_13
+    21300028: SNES - Street Fighter Alpha 2 - Ryu_14
+    21300030: SNES - Street Fighter Alpha 2 - Ryu_15
+    21300032: SNES - Street Fighter Alpha 2 - Ryu_16
+    21300034: SNES - Street Fighter Alpha 2 - Ryu_17
+    21300036: SNES - Street Fighter Alpha 2 - Ryu_18
+    21300038: SNES - Street Fighter Alpha 2 - Ryu_19
+    21300040: SNES - Street Fighter Alpha 2 - Ryu_20
+    21300042: SNES - Street Fighter Alpha 2 - Ryu_21
+    21300044: SNES - Street Fighter Alpha 2 - Ryu_22
+    21300046: SNES - Street Fighter Alpha 2 - Ryu_23
+    21300048: SNES - Street Fighter Alpha 2 - Ryu_24
+    21300050: SNES - Street Fighter Alpha 2 - Ryu_25
+    21300052: SNES - Street Fighter Alpha 2 - Ryu_26
+    21300054: SNES - Street Fighter Alpha 2 - Ryu_27
+    21300056: SNES - Street Fighter Alpha 2 - Ryu_28
+    21300058: SNES - Street Fighter Alpha 2 - Ryu_29
+    21300060: SNES - Street Fighter Alpha 2 - Ryu_30
+    21300062: SNES - Street Fighter Alpha 2 - Ryu_31
+    21300064: SNES - Street Fighter Alpha 2 - Ryu_32
+    21300066: SNES - Street Fighter Alpha 2 - Ryu_33
+    21300068: SNES - Street Fighter Alpha 2 - Ryu_34
+    21300070: SNES - Street Fighter Alpha 2 - Ryu_35
+    21300072: SNES - Street Fighter Alpha 2 - Ryu_36
+    21300074: SNES - Street Fighter Alpha 2 - Ryu_37
+    21300076: SNES - Street Fighter Alpha 2 - Ryu_38
+    21300078: SNES - Street Fighter Alpha 2 - Ryu_39
+    21300080: SNES - Street Fighter Alpha 2 - Ryu_40
+    21300082: SNES - Street Fighter Alpha 2 - Ryu_41
+    21300084: SNES - Street Fighter Alpha 2 - Ryu_42
+    21300086: SNES - Street Fighter Alpha 2 - Ryu_43
+    21300088: SNES - Street Fighter Alpha 2 - Ryu_44
+    21300090: SNES - Street Fighter Alpha 2 - Ryu_45
+    21300092: SNES - Street Fighter Alpha 2 - Ryu_46
+    21300094: SNES - Street Fighter Alpha 2 - Ryu_47
+    21300096: SNES - Street Fighter Alpha 2 - Ryu_48
+    21300098: SNES - Street Fighter Alpha 2 - Ryu_49
+    21300100: SNES - Street Fighter Alpha 2 - Ryu_50
+    21300102: SNES - Street Fighter Alpha 2 - Ryu_51
+    21300104: SNES - Street Fighter Alpha 2 - Ryu_52
+    21300106: SNES - Street Fighter Alpha 2 - Ryu_53
+    21300108: SNES - Street Fighter Alpha 2 - Ryu_54
+    21300110: SNES - Street Fighter Alpha 2 - Ryu_55
+    21300112: SNES - Street Fighter Alpha 2 - Ryu_56
+    21300114: SNES - Street Fighter Alpha 2 - Ryu_57
+    21300116: SNES - Street Fighter Alpha 2 - Ryu_58
+    21300118: SNES - Street Fighter Alpha 2 - Ryu_59
+    21300120: SNES - Street Fighter Alpha 2 - Ryu_60
+    21300122: SNES - Street Fighter Alpha 2 - Ryu_61
+    21300124: SNES - Street Fighter Alpha 2 - Ryu_62
+    21300126: SNES - Street Fighter Alpha 2 - Ryu_63
+    21300128: SNES - Street Fighter Alpha 2 - Ryu_64
+    21300130: SNES - Street Fighter Alpha 2 - Ryu_65
+    21300132: SNES - Street Fighter Alpha 2 - Ryu_66
+    21300134: SNES - Street Fighter Alpha 2 - Ryu_67
+    21300136: SNES - Street Fighter Alpha 2 - Ryu_68
+    21300138: SNES - Street Fighter Alpha 2 - Ryu_69
+    21300140: SNES - Street Fighter Alpha 2 - Ryu_70
+    21300142: SNES - Street Fighter Alpha 2 - Ryu_71
+    21300144: SNES - Street Fighter Alpha 2 - Ryu_72
+    21300146: SNES - Street Fighter Alpha 2 - Ryu_73
+    21300148: SNES - Street Fighter Alpha 2 - Ryu_74
+    21300150: SNES - Street Fighter Alpha 2 - Ryu_75
+    21300152: SNES - Street Fighter Alpha 2 - Ryu_76
+    21300154: SNES - Street Fighter Alpha 2 - Ryu_77
+    21300156: SNES - Street Fighter Alpha 2 - Ryu_78
+    21300158: SNES - Street Fighter Alpha 2 - Ryu_79
+    21300160: SNES - Street Fighter Alpha 2 - Ryu_80
+    21300162: SNES - Street Fighter Alpha 2 - Ryu_81
+    21300164: SNES - Street Fighter Alpha 2 - Ryu_82
+    21300166: SNES - Street Fighter Alpha 2 - Ryu_83
+    21300168: SNES - Street Fighter Alpha 2 - Ryu_84
+    21300170: SNES - Street Fighter Alpha 2 - Ryu_85
+    21300172: SNES - Street Fighter Alpha 2 - Ryu_86
+    21300174: SNES - Street Fighter Alpha 2 - Ryu_87
+    21300176: SNES - Street Fighter Alpha 2 - Ryu_88
+    21300178: SNES - Street Fighter Alpha 2 - Ryu_89
+    21300180: SNES - Street Fighter Alpha 2 - Ryu_90
+    21300182: SNES - Street Fighter Alpha 2 - Ryu_91
+    21300184: SNES - Street Fighter Alpha 2 - Ryu_92
+    21300186: SNES - Street Fighter Alpha 2 - Ryu_93
+    21300188: SNES - Street Fighter Alpha 2 - Ryu_94
+    21300190: SNES - Street Fighter Alpha 2 - Ryu_95
+    21300192: SNES - Street Fighter Alpha 2 - Ryu_96
+    21300194: SNES - Street Fighter Alpha 2 - Ryu_97
+    21300196: SNES - Street Fighter Alpha 2 - Ryu_98
+    21300198: SNES - Street Fighter Alpha 2 - Ryu_99
+    21300200: SNES - Street Fighter Alpha 2 - Ryu_100
+    21300202: SNES - Street Fighter Alpha 2 - Ryu_101
+    21300204: SNES - Street Fighter Alpha 2 - Ryu_102
+    21300206: SNES - Street Fighter Alpha 2 - Ryu_103
+    21300208: SNES - Street Fighter Alpha 2 - Ryu_104
+    21300210: SNES - Street Fighter Alpha 2 - Ryu_105
+    21300212: SNES - Street Fighter Alpha 2 - Ryu_106
+    21300214: SNES - Street Fighter Alpha 2 - Ryu_107
+    21300216: SNES - Street Fighter Alpha 2 - Ryu_108
+    21300218: SNES - Street Fighter Alpha 2 - Ryu_109
+    21300220: SNES - Street Fighter Alpha 2 - Ryu_110
+    21300222: SNES - Street Fighter Alpha 2 - Ryu_111
+    21300224: SNES - Street Fighter Alpha 2 - Ryu_112
+    21300226: SNES - Street Fighter Alpha 2 - Ryu_113
+    21300228: SNES - Street Fighter Alpha 2 - Ryu_114
+    21300230: SNES - Street Fighter Alpha 2 - Ryu_115
+    21300232: SNES - Street Fighter Alpha 2 - Ryu_116
+    21300234: SNES - Street Fighter Alpha 2 - Ryu_117
+    21300236: SNES - Street Fighter Alpha 2 - Ryu_118
+    21300238: SNES - Street Fighter Alpha 2 - Ryu_119
+    21300240: SNES - Street Fighter Alpha 2 - Ryu_120
+    21300242: SNES - Street Fighter Alpha 2 - Ryu_121
+    21300244: SNES - Street Fighter Alpha 2 - Ryu_122
+    21300246: SNES - Street Fighter Alpha 2 - Ryu_123
+    21300248: SNES - Street Fighter Alpha 2 - Ryu_124
+    21300250: SNES - Street Fighter Alpha 2 - Ryu_125
+    21300252: SNES - Street Fighter Alpha 2 - Ryu_126
+    21300254: SNES - Street Fighter Alpha 2 - Ryu_127
+    21300256: SNES - Street Fighter Alpha 2 - Ryu_128
+    21300258: SNES - Street Fighter Alpha 2 - Ryu_129
+    21300260: SNES - Street Fighter Alpha 2 - Ryu_130
+    21300262: SNES - Street Fighter Alpha 2 - Ryu_131
+    21300264: SNES - Street Fighter Alpha 2 - Ryu_132
+    21300266: SNES - Street Fighter Alpha 2 - Ryu_133
+    21300268: SNES - Street Fighter Alpha 2 - Ryu_134
+    21300270: SNES - Street Fighter Alpha 2 - Ryu_135
+    21300272: SNES - Street Fighter Alpha 2 - Ryu_136
+    21300274: SNES - Street Fighter Alpha 2 - Ryu_137
+    21300276: SNES - Street Fighter Alpha 2 - Ryu_138
+    21300278: SNES - Street Fighter Alpha 2 - Ryu_139
+    21300280: SNES - Street Fighter Alpha 2 - Ryu_140
+    21300282: SNES - Street Fighter Alpha 2 - Ryu_141
+    21300284: SNES - Street Fighter Alpha 2 - Ryu_142
+    21300286: SNES - Street Fighter Alpha 2 - Ryu_143
+    21300288: SNES - Street Fighter Alpha 2 - Ryu_144
+    21300290: SNES - Street Fighter Alpha 2 - Ryu_145
+    21300292: SNES - Street Fighter Alpha 2 - Ryu_146
+    21300294: SNES - Street Fighter Alpha 2 - Ryu_147
+    21300296: SNES - Street Fighter Alpha 2 - Ryu_148
+    21300298: SNES - Street Fighter Alpha 2 - Ryu_149
+    21300300: SNES - Street Fighter Alpha 2 - Ryu_150
+    21300302: SNES - Street Fighter Alpha 2 - Ryu_151
+    21300304: SNES - Street Fighter Alpha 2 - Ryu_152
+    21300306: SNES - Street Fighter Alpha 2 - Ryu_153
+    21300308: SNES - Street Fighter Alpha 2 - Ryu_154
+    21300310: SNES - Street Fighter Alpha 2 - Ryu_155
+    21300312: SNES - Street Fighter Alpha 2 - Ryu_156
+    21300314: SNES - Street Fighter Alpha 2 - Ryu_157
+    21300316: SNES - Street Fighter Alpha 2 - Ryu_158
+    21300318: SNES - Street Fighter Alpha 2 - Ryu_159
+    21300320: SNES - Street Fighter Alpha 2 - Ryu_160
+    21300322: SNES - Street Fighter Alpha 2 - Ryu_161
+    21300324: SNES - Street Fighter Alpha 2 - Ryu_162
+    21300326: SNES - Street Fighter Alpha 2 - Ryu_163
+    21300328: SNES - Street Fighter Alpha 2 - Ryu_164
+    21300330: SNES - Street Fighter Alpha 2 - Ryu_165
+    21300332: SNES - Street Fighter Alpha 2 - Ryu_166
+    21300334: SNES - Street Fighter Alpha 2 - Ryu_167
+    21300336: SNES - Street Fighter Alpha 2 - Ryu_168
+    21300338: SNES - Street Fighter Alpha 2 - Ryu_169
+    21300340: SNES - Street Fighter Alpha 2 - Ryu_170
+    21300342: SNES - Street Fighter Alpha 2 - Ryu_171
+    21300344: SNES - Street Fighter Alpha 2 - Ryu_172
+    21300346: SNES - Street Fighter Alpha 2 - Ryu_173
+    21300348: SNES - Street Fighter Alpha 2 - Ryu_174
+    21300350: SNES - Street Fighter Alpha 2 - Ryu_175
+    21300352: SNES - Street Fighter Alpha 2 - Ryu_176
+    21300354: SNES - Street Fighter Alpha 2 - Ryu_177
+    21300356: SNES - Street Fighter Alpha 2 - Ryu_178
+    21300358: SNES - Street Fighter Alpha 2 - Ryu_179
+    21300360: SNES - Street Fighter Alpha 2 - Ryu_180
+    21300362: SNES - Street Fighter Alpha 2 - Ryu_181
+    21300364: SNES - Street Fighter Alpha 2 - Ryu_182
+    21300366: SNES - Street Fighter Alpha 2 - Ryu_183
+    21300368: SNES - Street Fighter Alpha 2 - Ryu_184
+    21300370: SNES - Street Fighter Alpha 2 - Ryu_185
+    21300372: SNES - Street Fighter Alpha 2 - Ryu_186
+    21300374: SNES - Street Fighter Alpha 2 - Ryu_187
+    21300376: SNES - Street Fighter Alpha 2 - Ryu_188
+    21300378: SNES - Street Fighter Alpha 2 - Ryu_189
+    21300380: SNES - Street Fighter Alpha 2 - Ryu_190
+    21300382: SNES - Street Fighter Alpha 2 - Ryu_191
+    21300384: SNES - Street Fighter Alpha 2 - Ryu_192
+    21300386: SNES - Street Fighter Alpha 2 - Ryu_193
+    21300388: SNES - Street Fighter Alpha 2 - Ryu_194
+    21300390: SNES - Street Fighter Alpha 2 - Ryu_195
+    21300392: SNES - Street Fighter Alpha 2 - Ryu_196
+    21300394: SNES - Street Fighter Alpha 2 - Ryu_197
+    21300396: SNES - Street Fighter Alpha 2 - Ryu_198
+    21300398: SNES - Street Fighter Alpha 2 - Ryu_199
+    21300400: SNES - Street Fighter Alpha 2 - Ryu_200
+    21300402: SNES - Street Fighter Alpha 2 - Ryu_201
+    21300404: SNES - Street Fighter Alpha 2 - Ryu_202
+    21300406: SNES - Street Fighter Alpha 2 - Ryu_203
+    21300408: SNES - Street Fighter Alpha 2 - Ryu_204
+    21300410: SNES - Street Fighter Alpha 2 - Ryu_205
+    21300412: SNES - Street Fighter Alpha 2 - Ryu_206
+    21300414: SNES - Street Fighter Alpha 2 - Ryu_207
+    21300416: SNES - Street Fighter Alpha 2 - Ryu_208
+    21300418: SNES - Street Fighter Alpha 2 - Ryu_209
+    21300420: SNES - Street Fighter Alpha 2 - Ryu_210
+    21300422: SNES - Street Fighter Alpha 2 - Ryu_211
+    21300424: SNES - Street Fighter Alpha 2 - Ryu_212
+    21300426: SNES - Street Fighter Alpha 2 - Ryu_213
+    21300428: SNES - Street Fighter Alpha 2 - Ryu_214
+    21300430: SNES - Street Fighter Alpha 2 - Ryu_215
+    21300432: SNES - Street Fighter Alpha 2 - Ryu_216
+    21300434: SNES - Street Fighter Alpha 2 - Ryu_217
+    21300436: SNES - Street Fighter Alpha 2 - Ryu_218
+    21300438: SNES - Street Fighter Alpha 2 - Ryu_219
+    21300440: SNES - Street Fighter Alpha 2 - Ryu_220
+    21300442: SNES - Street Fighter Alpha 2 - Ryu_221
+    21300444: SNES - Street Fighter Alpha 2 - Ryu_222
+    21300446: SNES - Street Fighter Alpha 2 - Ryu_223
+    21300448: SNES - Street Fighter Alpha 2 - Ryu_224
+    21300450: SNES - Street Fighter Alpha 2 - Ryu_225
+    21300452: SNES - Street Fighter Alpha 2 - Ryu_226
+    21300454: SNES - Street Fighter Alpha 2 - Ryu_227
+    21300456: SNES - Street Fighter Alpha 2 - Ryu_228
+    21300458: SNES - Street Fighter Alpha 2 - Ryu_229
+    21300460: SNES - Street Fighter Alpha 2 - Ryu_230
+    21300462: SNES - Street Fighter Alpha 2 - Ryu_231
+    21300464: SNES - Street Fighter Alpha 2 - Ryu_232
+    21300466: SNES - Street Fighter Alpha 2 - Ryu_233
+    21300468: SNES - Street Fighter Alpha 2 - Ryu_234
+    21300470: SNES - Street Fighter Alpha 2 - Ryu_235
+    21300472: SNES - Street Fighter Alpha 2 - Ryu_236
+    21300474: SNES - Street Fighter Alpha 2 - Ryu_237
+    21300476: SNES - Street Fighter Alpha 2 - Ryu_238
+    21300478: SNES - Street Fighter Alpha 2 - Ryu_239
+    21300480: SNES - Street Fighter Alpha 2 - Ryu_240
+    21300482: SNES - Street Fighter Alpha 2 - Ryu_241
+    21300484: SNES - Street Fighter Alpha 2 - Ryu_242
+    21300486: SNES - Street Fighter Alpha 2 - Ryu_243
+    21300488: SNES - Street Fighter Alpha 2 - Ryu_244
+    21300490: SNES - Street Fighter Alpha 2 - Ryu_245
+    21300492: SNES - Street Fighter Alpha 2 - Ryu_246
+    21300494: SNES - Street Fighter Alpha 2 - Ryu_247
+    21300496: SNES - Street Fighter Alpha 2 - Ryu_248
+    21300498: SNES - Street Fighter Alpha 2 - Ryu_249
+    21300500: SNES - Street Fighter Alpha 2 - Ryu_250
+    21300502: SNES - Street Fighter Alpha 2 - Ryu_251
+    21300504: SNES - Street Fighter Alpha 2 - Ryu_252
+    21300506: SNES - Street Fighter Alpha 2 - Ryu_253
+    21300508: SNES - Street Fighter Alpha 2 - Ryu_254
+    21300510: SNES - Street Fighter Alpha 2 - Ryu_255
+    21300512: SNES - Street Fighter Alpha 2 - Ryu_256
+    21300514: SNES - Street Fighter Alpha 2 - Ryu_257
+    21300516: SNES - Street Fighter Alpha 2 - Ryu_258
+    21300518: SNES - Street Fighter Alpha 2 - Ryu_259
+    21300520: SNES - Street Fighter Alpha 2 - Ryu_260
+    21300522: SNES - Street Fighter Alpha 2 - Ryu_261
+    21300524: SNES - Street Fighter Alpha 2 - Ryu_262
+    21300526: SNES - Street Fighter Alpha 2 - Ryu_263
+    21300528: SNES - Street Fighter Alpha 2 - Ryu_264
+    21300530: SNES - Street Fighter Alpha 2 - Ryu_265
+    21300532: SNES - Street Fighter Alpha 2 - Ryu_266
+    21300534: SNES - Street Fighter Alpha 2 - Ryu_267
+    21300536: SNES - Street Fighter Alpha 2 - Ryu_268
+    21300538: SNES - Street Fighter Alpha 2 - Ryu_269
+    21300540: SNES - Street Fighter Alpha 2 - Ryu_270
+    21300542: SNES - Street Fighter Alpha 2 - Ryu_271
+    21300544: SNES - Street Fighter Alpha 2 - Ryu_272
+    21300546: SNES - Street Fighter Alpha 2 - Ryu_273
+    21300548: SNES - Street Fighter Alpha 2 - Ryu_274
+    21300550: SNES - Street Fighter Alpha 2 - Ryu_275
+    21300552: SNES - Street Fighter Alpha 2 - Ryu_276
+    21300554: SNES - Street Fighter Alpha 2 - Ryu_277
+    21300556: SNES - Street Fighter Alpha 2 - Ryu_278
+    21300558: SNES - Street Fighter Alpha 2 - Ryu_279
+    21300560: SNES - Street Fighter Alpha 2 - Ryu_280
+    21300562: SNES - Street Fighter Alpha 2 - Ryu_281
+    21300564: SNES - Street Fighter Alpha 2 - Ryu_282
+    21300566: SNES - Street Fighter Alpha 2 - Ryu_283
+    21300568: SNES - Street Fighter Alpha 2 - Ryu_284
+    21300570: SNES - Street Fighter Alpha 2 - Ryu_285
+    21300572: SNES - Street Fighter Alpha 2 - Ryu_286
+    21300574: SNES - Street Fighter Alpha 2 - Ryu_287
+    21300576: SNES - Street Fighter Alpha 2 - Ryu_288
+    21300578: SNES - Street Fighter Alpha 2 - Ryu_289
+    21300580: SNES - Street Fighter Alpha 2 - Ryu_290
+    21300582: SNES - Street Fighter Alpha 2 - Ryu_291
+    21300584: SNES - Street Fighter Alpha 2 - Ryu_292
+    21300586: SNES - Street Fighter Alpha 2 - Ryu_293
+    21300588: SNES - Street Fighter Alpha 2 - Ryu_294
+    21300590: SNES - Street Fighter Alpha 2 - Ryu_295
+    21300592: SNES - Street Fighter Alpha 2 - Ryu_296
+    21300594: SNES - Street Fighter Alpha 2 - Ryu_297
+    21300596: SNES - Street Fighter Alpha 2 - Ryu_298
+    21300598: SNES - Street Fighter Alpha 2 - Ryu_299
+    21300600: SNES - Street Fighter Alpha 2 - Ryu_300
+    21300602: SNES - Street Fighter Alpha 2 - Ryu_301
+    21300604: SNES - Street Fighter Alpha 2 - Ryu_302
+    21300606: SNES - Street Fighter Alpha 2 - Ryu_303
+    21300608: SNES - Street Fighter Alpha 2 - Ryu_304
+    21300610: SNES - Street Fighter Alpha 2 - Ryu_305
+    21300612: SNES - Street Fighter Alpha 2 - Ryu_306
+    21300614: SNES - Street Fighter Alpha 2 - Ryu_307
+    21300616: SNES - Street Fighter Alpha 2 - Ryu_308
+    21300618: SNES - Street Fighter Alpha 2 - Ryu_309
+    21300620: SNES - Street Fighter Alpha 2 - Ryu_310
+    21300622: SNES - Street Fighter Alpha 2 - Ryu_311
+    21300624: SNES - Street Fighter Alpha 2 - Ryu_312
+    21300626: SNES - Street Fighter Alpha 2 - Ryu_313
+    21300628: SNES - Street Fighter Alpha 2 - Ryu_314
+    21300630: SNES - Street Fighter Alpha 2 - Ryu_315
+    21300632: SNES - Street Fighter Alpha 2 - Ryu_316
+    21300634: SNES - Street Fighter Alpha 2 - Ryu_317
+    21300636: SNES - Street Fighter Alpha 2 - Ryu_318
+    21300638: SNES - Street Fighter Alpha 2 - Ryu_319
+    21300640: SNES - Street Fighter Alpha 2 - Ryu_320
+    21300642: SNES - Street Fighter Alpha 2 - Ryu_321
+    21300644: SNES - Street Fighter Alpha 2 - Ryu_322
+    21300646: SNES - Street Fighter Alpha 2 - Ryu_323
+    21300648: SNES - Street Fighter Alpha 2 - Ryu_324
+    21300650: SNES - Street Fighter Alpha 2 - Ryu_325
+    21300652: SNES - Street Fighter Alpha 2 - Ryu_326
+    21300654: SNES - Street Fighter Alpha 2 - Ryu_327
+    21300656: SNES - Street Fighter Alpha 2 - Ryu_328
+    21300658: SNES - Street Fighter Alpha 2 - Ryu_329
+    21300660: SNES - Street Fighter Alpha 2 - Ryu_330
+    21300662: SNES - Street Fighter Alpha 2 - Ryu_331
+    21300664: SNES - Street Fighter Alpha 2 - Ryu_332
+    21300666: SNES - Street Fighter Alpha 2 - Ryu_333
+    21300668: SNES - Street Fighter Alpha 2 - Ryu_334
+    21300670: SNES - Street Fighter Alpha 2 - Ryu_335
+    21300672: SNES - Street Fighter Alpha 2 - Ryu_336
+    21300674: SNES - Street Fighter Alpha 2 - Ryu_337
+    21300676: SNES - Street Fighter Alpha 2 - Ryu_338
+    21300678: SNES - Street Fighter Alpha 2 - Ryu_339
+    21300680: SNES - Street Fighter Alpha 2 - Ryu_340
+    21300682: SNES - Street Fighter Alpha 2 - Ryu_341
+    21300684: SNES - Street Fighter Alpha 2 - Ryu_342
+    21300686: SNES - Street Fighter Alpha 2 - Ryu_343
+    21300688: SNES - Street Fighter Alpha 2 - Ryu_344
+    21300690: SNES - Street Fighter Alpha 2 - Ryu_345
+    21300692: SNES - Street Fighter Alpha 2 - Ryu_346
+    21300694: SNES - Street Fighter Alpha 2 - Ryu_347
+    21300696: SNES - Street Fighter Alpha 2 - Ryu_348
+    21300698: SNES - Street Fighter Alpha 2 - Ryu_349
+    21300700: SNES - Street Fighter Alpha 2 - Ryu_350
+    21300702: SNES - Street Fighter Alpha 2 - Ryu_351
+    21300704: SNES - Street Fighter Alpha 2 - Ryu_352
+    21300706: SNES - Street Fighter Alpha 2 - Ryu_353
+    21300708: SNES - Street Fighter Alpha 2 - Ryu_354
+    21300710: SNES - Street Fighter Alpha 2 - Ryu_355
+    21300712: SNES - Street Fighter Alpha 2 - Ryu_356
+    21300714: SNES - Street Fighter Alpha 2 - Ryu_357
+    21300716: SNES - Street Fighter Alpha 2 - Ryu_358
+    21300718: SNES - Street Fighter Alpha 2 - Ryu_359
+    21300720: SNES - Street Fighter Alpha 2 - Ryu_360
+    21300722: SNES - Street Fighter Alpha 2 - Ryu_361
+    21300724: SNES - Street Fighter Alpha 2 - Ryu_362
+    21300726: SNES - Street Fighter Alpha 2 - Ryu_363
+    21300728: SNES - Street Fighter Alpha 2 - Ryu_364
+    21300730: SNES - Street Fighter Alpha 2 - Ryu_365
+    21300732: SNES - Street Fighter Alpha 2 - Ryu_366
+    21300734: SNES - Street Fighter Alpha 2 - Ryu_367
+    21300736: SNES - Street Fighter Alpha 2 - Ryu_368
+    21300738: SNES - Street Fighter Alpha 2 - Ryu_369
+    21300740: SNES - Street Fighter Alpha 2 - Ryu_370
+    21300742: SNES - Street Fighter Alpha 2 - Ryu_371
+    21300744: SNES - Street Fighter Alpha 2 - Ryu_372
+    21300746: SNES - Street Fighter Alpha 2 - Ryu_373
+    21300748: SNES - Street Fighter Alpha 2 - Ryu_374
+    21300750: SNES - Street Fighter Alpha 2 - Ryu_375
+    21300752: SNES - Street Fighter Alpha 2 - Ryu_376
+    21300754: SNES - Street Fighter Alpha 2 - Ryu_377
+    21300756: SNES - Street Fighter Alpha 2 - Ryu_378
+    21300758: SNES - Street Fighter Alpha 2 - Ryu_379
+    21300760: SNES - Street Fighter Alpha 2 - Ryu_380
+    21300762: SNES - Street Fighter Alpha 2 - Ryu_381
+    21300764: SNES - Street Fighter Alpha 2 - Ryu_382
+    21300766: SNES - Street Fighter Alpha 2 - Ryu_383
+    21300768: SNES - Street Fighter Alpha 2 - Ryu_384
+    21300770: SNES - Street Fighter Alpha 2 - Ryu_385
+    21300772: SNES - Street Fighter Alpha 2 - Ryu_386
+    21300774: SNES - Street Fighter Alpha 2 - Ryu_387
+    21300776: SNES - Street Fighter Alpha 2 - Ryu_388
+    21300778: SNES - Street Fighter Alpha 2 - Ryu_389
+    21300780: SNES - Street Fighter Alpha 2 - Ryu_390
+    21300782: SNES - Street Fighter Alpha 2 - Ryu_391
+    21300784: SNES - Street Fighter Alpha 2 - Ryu_392
+    21300786: SNES - Street Fighter Alpha 2 - Ryu_393
+    21300788: SNES - Street Fighter Alpha 2 - Ryu_394
+    21300790: SNES - Street Fighter Alpha 2 - Ryu_395
+    21300792: SNES - Street Fighter Alpha 2 - Ryu_396
+    21300794: SNES - Street Fighter Alpha 2 - Ryu_397
+    21300796: SNES - Street Fighter Alpha 2 - Ryu_398
+    21300798: SNES - Street Fighter Alpha 2 - Ryu_399
+    21300800: SNES - Street Fighter Alpha 2 - Ryu_400
+    21300802: SNES - Street Fighter Alpha 2 - Ryu_401
+    21300804: SNES - Street Fighter Alpha 2 - Ryu_402
+    21300806: SNES - Street Fighter Alpha 2 - Ryu_403
+    21300808: SNES - Street Fighter Alpha 2 - Ryu_404
+    21300810: SNES - Street Fighter Alpha 2 - Ryu_405
+    21300812: SNES - Street Fighter Alpha 2 - Ryu_406
+    21300814: SNES - Street Fighter Alpha 2 - Ryu_407
+    21300816: SNES - Street Fighter Alpha 2 - Ryu_408
+    21300818: SNES - Street Fighter Alpha 2 - Ryu_409
+    21300820: SNES - Street Fighter Alpha 2 - Ryu_410
+    21300822: SNES - Street Fighter Alpha 2 - Ryu_411
+    21300824: SNES - Street Fighter Alpha 2 - Ryu_412
+    21300826: SNES - Street Fighter Alpha 2 - Ryu_413
+    21300828: SNES - Street Fighter Alpha 2 - Ryu_414
+    21300830: SNES - Street Fighter Alpha 2 - Ryu_415
+    21300832: SNES - Street Fighter Alpha 2 - Ryu_416
+    21300834: SNES - Street Fighter Alpha 2 - Ryu_417
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: SNES - Street Fighter Alpha 2 - Ryu_53
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 2356
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_137
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_183
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1699
+        width: 35
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_187
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1672
+        width: 39
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_194
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1633
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_195
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1674
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_196
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1644
+        width: 39
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_203
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1621
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_204
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1621
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_205
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1621
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_213
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1527
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_246
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1452
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_343
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 707
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_344
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 696
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_345
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 687
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_348
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 522
+        width: 102
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_349
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 522
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_350
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 522
+        width: 91
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_351
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 645
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_352
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 522
+        width: 104
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_353
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 522
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_354
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 522
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_355
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 522
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_356
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 522
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_357
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 522
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_358
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 522
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_359
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 522
+        width: 107
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_360
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 522
+        width: 103
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_361
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 522
+        width: 93
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_362
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 522
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_363
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 522
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_364
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 522
+        width: 91
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_365
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 522
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_368
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 598
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_369
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 598
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_370
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 598
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_371
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 465
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_372
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 457
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_373
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_374
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 465
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_375
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 457
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_376
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 448
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_377
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 287
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_378
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 92
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_379
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 287
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_380
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 287
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_381
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 281
+        width: 91
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_382
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 287
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_383
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 387
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_384
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 287
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_385
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 383
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_386
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 287
+        width: 96
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_387
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 287
+        width: 91
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_388
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 287
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_389
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 287
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_390
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 287
+        width: 97
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_391
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 287
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_392
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 287
+        width: 105
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_393
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 287
+        width: 97
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_394
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 287
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_395
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 287
+        width: 92
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_396
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 287
+        width: 106
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_397
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 287
+        width: 103
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_398
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 238
+        width: 277
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_399
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 38
+        width: 94
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_400
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_401
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 38
+        width: 130
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_402
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 38
+        width: 130
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_403
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 38
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_404
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 38
+        width: 104
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_405
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 38
+        width: 104
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_406
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 38
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_407
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 38
+        width: 104
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_408
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 38
+        width: 104
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_409
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 38
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_410
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 38
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_411
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 38
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_412
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 38
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_413
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 38
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_414
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 38
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_415
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 38
+        width: 104
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_416
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 38
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Street Fighter Alpha 2 - Ryu_417
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 38
+        width: 104
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,7 +3,7 @@ using System.Collections;
 
 public class GameManager : MonoBehaviour 
 {
-	public GameObject enemy;
+	public GameObject[] enemys;
 	public Vector3 spawnValues;
 	public int hazardCount;
 	public float spawnWait;
@@ -50,6 +50,7 @@ public class GameManager : MonoBehaviour
 		{
 			for (int i = 0; i < hazardCount; i++) 
 			{
+				GameObject enemy = enemys[Random.Range(0,enemys.Length)];
 				Vector3 spawnPosition = new Vector3 (spawnValues.x, Random.Range (-3.9f, 9.0f), spawnValues.z);
 				Quaternion spawnRotation = Quaternion.identity;
 				Instantiate (enemy, spawnPosition, spawnRotation);
