@@ -29,6 +29,7 @@ public class DestroyByContact : MonoBehaviour {
 		{
 			return;
 		}
+		print (gameObject.name);
 		gameManager.AddScore (scoreValue);
 		Destroy (other.gameObject);
 		Destroy (gameObject);
